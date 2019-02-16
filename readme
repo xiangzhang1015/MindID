@@ -8,7 +8,7 @@ MindID.py is the Tensorflow based python code.
 
 EID-M.mat, EID-S.mat are two local datasets, please find more details in the paper.
 
-The public dataset EEG-S mentioned in paper is a subset of EEG_ID_label6.mat which is from eegmmidb dataset (https://www.physionet.org/pn4/eegmmidb/). 
+The public dataset EEG-S mentioned in paper is a subset of the eegmmidb dataset (https://www.physionet.org/pn4/eegmmidb/). 
 The generation of EEG-S is provided in the python code.
 
 More details please check www.xiangzhang.info, please feel free to contact me 1015xzhang@gmail.com
