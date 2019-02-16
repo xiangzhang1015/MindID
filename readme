@@ -1,4 +1,5 @@
-Here are the datasets and python code for the submitted paper: 
+Here is the python code for the Ubicomp 2018 paper: 
+
 MindID: Person Identification from Brain Waves through Attention-based Recurrent Neural Network
 
 More comments and details will be added later.
@@ -7,4 +8,7 @@ MindID.py is the Tensorflow based python code.
 
 EID-M.mat, EID-S.mat are two local datasets, please find more details in the paper.
 
-The public dataset EEG-S mentioned in paper is a subset of EEG_ID_label6.mat. The generation of EEG-S is provided in the python code.
+The public dataset EEG-S mentioned in paper is a subset of EEG_ID_label6.mat which is from eegmmidb dataset (https://www.physionet.org/pn4/eegmmidb/). 
+The generation of EEG-S is provided in the python code.
+
+More details please check www.xiangzhang.info, please feel free to contact me 1015xzhang@gmail.com
