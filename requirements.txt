@@ -1,0 +1,5 @@
+tensorflow==1.14.0
+numpy
+scipy
+scikit-learn
+xgboost

@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+env/
+venv/
+ENV/
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data files
+*.mat
+*.pkl
+*.pickle
+
+# Model checkpoints and logs
+checkpoints/
+logs/
+results/
+*.ckpt
+*.ckpt.*
+*.index
+*.meta
+checkpoint
+
+# TensorFlow
+*.ckpt.data-*
+events.out.tfevents.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

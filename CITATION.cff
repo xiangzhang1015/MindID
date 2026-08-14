@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: article
+title: "MindID: Person Identification from Brain Waves through Attention-based Recurrent Neural Network"
+authors:
+  - family-names: Zhang
+    given-names: Xiang
+  - family-names: Yao
+    given-names: Lina
+  - family-names: Kanhere
+    given-names: Salil S.
+  - family-names: Liu
+    given-names: Yunhao
+  - family-names: Gu
+    given-names: Tao
+  - family-names: Chen
+    given-names: Kaixuan
+doi: 10.1145/3264959
+journal: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+volume: 2
+issue: 3
+article-number: 149
+pages: "1--23"
+year: 2018
+month: 9
+url: "https://dl.acm.org/doi/10.1145/3264959"
+repository-code: "https://github.com/xiangzhang1015/MindID"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - EEG
+  - person identification
+  - biometrics
+  - attention mechanism
+  - recurrent neural network
+  - brain-computer interface
+  - ubiquitous computing
